@@ -13,7 +13,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
@@ -30,6 +30,6 @@
 
 ###
 
-<p align="left">✨ Sou movido por desafios e por aprender algo novo a cada projeto.<br>📚 Acredito que tecnologia boa é aquela que resolve problemas de forma simples e eficiente<br>🎯 E é nisso que coloco minha energia todos os dias!</p>
+<p align="left">Sou movido por desafios e por aprender algo novo a cada projeto.<br>Acredito que tecnologia boa é aquela que resolve problemas de forma simples e eficiente.<br>É nisso que coloco minha energia: construir soluções bem feitas, com foco em clareza, performance e resultado.</p>
 
 ###
