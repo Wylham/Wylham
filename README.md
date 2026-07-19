@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Wylham, Sou desenvolvedor de Software graduado pela Estácio e com diversos cursos na área de tecnologia e programação.</p>
+<p align="left">Meu nome é Wylham, Sou desenvolvedor de Software graduado em Análise e Desenvolvimento de Sistemas e com diversos cursos na área de tecnologia e programação.</p>
 
 ###
 
